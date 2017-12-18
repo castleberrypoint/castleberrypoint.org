@@ -29,8 +29,8 @@ body {
 }
 
 .link.box {
-    min-width: 200px;
-    max-width: 200px;
+    min-width: 175px;
+    max-width: 175px;
     margin: 10px;
     text-align: center;
 }
