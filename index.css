@@ -24,13 +24,14 @@ body {
 
 .header {
     font-family: "moon";
-    font-size: 18px;
+    font-size: 16px;
     color: white;
 }
 
 .logo {
     display: block;
     width: 300px;
+    margin-top: 10px;
 }
 
 .link.box {
@@ -66,7 +67,7 @@ body {
 }
 
 .link .title {
-    font-size: 18px;
+    font-size: 16px;
     font-family: "moon";
 }
 
