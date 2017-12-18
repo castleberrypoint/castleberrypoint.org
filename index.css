@@ -56,9 +56,11 @@ body {
 }
 
 .link .title {
-    font-size: 1.1rem;
+    font-size: 20px;
+    font-family: "moon";
 }
 
 .link .subtitle {
-    font-size: 1.0rem;
+    font-size: 12px;
+    font-family: "moon";
 }
