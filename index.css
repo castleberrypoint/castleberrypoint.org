@@ -14,11 +14,12 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    padding: 0;
 }
 
 .header {
     font-family: "moon";
-    font-size: 30px;
+    font-size: 20px;
     color: white;
 }
 
@@ -28,14 +29,14 @@ body {
 }
 
 .link.box {
-    min-width: 250px;
-    max-width: 250px;
+    min-width: 200px;
+    max-width: 200px;
     margin: 10px;
     text-align: center;
 }
 
 .link.container {
-    margin: 20px;
+    margin: 20px 0px 20px 0;
     justify-content: center;
     display: flex;
     flex-wrap: wrap;
